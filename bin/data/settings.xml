@@ -1,0 +1,15 @@
+<kinect_settings>
+	<minDistance>2733</minDistance>
+	<maxDistance>5390</maxDistance>
+	<nearThreshold>215</nearThreshold>
+	<farThreshold>192</farThreshold>
+	<minDetectSize>133</minDetectSize>
+	<maxDetectSize>1666</maxDetectSize>
+	<maxDetectNumber>300</maxDetectNumber>
+	<lowPassValue>0.17</lowPassValue>
+	<blurValue>0</blurValue>
+<kinect_settings/>
+	<idol>0</idol>
+	<audBlue>1</audBlue>
+	<audRed>0</audRed>
+</kinect_settings>
